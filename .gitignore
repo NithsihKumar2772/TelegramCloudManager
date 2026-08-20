@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+.env
+*.session
+*.session-journal
+.vscode/
+.idea/
